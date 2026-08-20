@@ -1,77 +1,54 @@
-# Research-Analyst
-My  journey to become a Research Analyst | Research | Excel | SQL | Power BI | Technology Research
+# Research Analyst – 2 Month Learning Journey
 
-# Research Analyst – 6 Month Learning Journey
-
-Welcome to my 6-month journey to become a Research Analyst.
+My focused learning journey to build skills for
+Research Analyst / Technology Research Analyst roles.
 
 ## 🎯 Goal
 
-To develop practical skills in:
+Develop practical skills in:
 
- Research Methodology
- Advanced Excel
- SQL
- Statistics
-  Power BI
-  Technology Research
-  Cloud & AI Fundamentals
-  Data Analysis
-  Report Writing
-  Business Communication
+- Research Methodology
+- Excel
+- SQL
+- Statistics
+- Power BI
+- Technology Research
+- Data Analysis
+- Report Writing
 
-## 📅 Learning Roadmap
+## 📅 2 Month Roadmap
 
 ### Month 1 – Research & Excel
-- Research methodology
-- Primary & secondary research
-- Data collection
-- Source validation
-- Excel fundamentals
-- Advanced Excel
+- Research fundamentals
+- Information & source validation
+- Industry research
+- Excel
 - Data cleaning
+- Pivot Tables
+- Excel analysis
 
-### Month 2 – SQL & Statistics
-- SQL
-- Data analysis
-- Statistics
-- Data interpretation
+### Month 2 – SQL, Statistics & Power BI
+- SQL for analysis
+- Statistics fundamentals
+- Power BI
+- Data visualization
+- Research project
 
-### Month 3 – Power BI
-- Power Query
-- Data modeling
-- DAX
-- Dashboards
+## 🚀 Main Project
 
-### Month 4 – Technology Research
-- Cloud computing
-- AI & GenAI
-- Technology comparison
-- Industry research
+**IT Job Market Intelligence – Bengaluru vs Mysuru**
 
-### Month 5 – Research Projects
-- Industry research
-- Competitor analysis
-- Research reports
-- Data-driven recommendations
-
-### Month 6 – Job Preparation
-- Resume
-- Portfolio
-- Interview preparation
-- Research Analyst applications
+Research → Data Collection → Analysis → Dashboard → Insights
 
 ## 📊 Progress
 
-| Month | Status |
-|---|---|
-| Month 1 | 🔄 In Progress |
-| Month 2 | ⏳ Upcoming |
-| Month 3 | ⏳ Upcoming |
-| Month 4 | ⏳ Upcoming |
-| Month 5 | ⏳ Upcoming |
-| Month 6 | ⏳ Upcoming |
+- [ ] Month 1 – Research & Excel
+- [ ] Month 2 – SQL, Statistics & Power BI
 
-## 🚀 Goal
+## 🎯 Target Roles
 
-Become job-ready for Research Analyst / Technology Research Analyst roles within 6 months.
+- Research Analyst
+- Technology Research Analyst
+- Business Research Analyst
+- Market Research Analyst
+- Technology Analyst
