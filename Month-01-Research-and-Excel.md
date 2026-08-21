@@ -17,3 +17,18 @@ Research means collecting reliable information,
 analyzing it and finding useful insights.
 
 **Status:** ✅ Completed
+## Day 2 – Reliable Sources
+
+### Learned
+- Primary and secondary sources
+- How to identify reliable sources
+- Source validation
+
+### Practice
+Identified job research sources:
+Naukri, LinkedIn, Glassdoor, Foundit and Indeed.
+
+### Key Takeaway
+The original source should be preferred when verifying important information.
+
+**Status:** ✅ Completed
