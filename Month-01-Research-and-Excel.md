@@ -64,3 +64,17 @@ Compared two sources for company information and identified the more reliable so
 Always verify important information using reliable and original sources.
 
 **Status:** ✅ Completed
+## Day 5 – Data Organization
+
+### Learned
+- How to organize research data
+- Structured data tables
+- Comparing collected information
+
+### Practice
+Organized IT job information into a structured table.
+
+### Key Takeaway
+Structured data makes comparison and analysis easier.
+
+**Status:** ✅ Completed
