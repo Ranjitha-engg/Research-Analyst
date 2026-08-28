@@ -32,3 +32,21 @@ Naukri, LinkedIn, Glassdoor, Foundit and Indeed.
 The original source should be preferred when verifying important information.
 
 **Status:** ✅ Completed
+## Day 3 – Data Collection
+
+### Learned
+- How to collect research data
+- How to organize data in a structured format
+
+### Practice
+Collected IT fresher job information:
+- Company
+- Location
+- Job role
+- Experience
+- Skills required
+
+### Key Takeaway
+Structured data makes it easier to compare information and identify patterns.
+
+**Status:** ✅ Completed
