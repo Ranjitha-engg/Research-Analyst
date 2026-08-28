@@ -50,3 +50,17 @@ Collected IT fresher job information:
 Structured data makes it easier to compare information and identify patterns.
 
 **Status:** ✅ Completed
+## Day 4 – Source Verification
+
+### Learned
+- How to verify information
+- How to compare sources
+- Importance of original sources
+
+### Practice
+Compared two sources for company information and identified the more reliable source.
+
+### Key Takeaway
+Always verify important information using reliable and original sources.
+
+**Status:** ✅ Completed
