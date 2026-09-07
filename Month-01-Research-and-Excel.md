@@ -78,3 +78,72 @@ Organized IT job information into a structured table.
 Structured data makes comparison and analysis easier.
 
 **Status:** ✅ Completed
+## Day 6 – Finding Patterns
+
+### Learned
+- How to identify patterns in research data
+- How to count recurring information
+- How to derive simple insights
+
+### Practice
+Analyzed skills from collected IT job postings and identified the most frequently requested skill.
+
+### Key Takeaway
+Research insights should be based on patterns found in collected data.
+
+**Status:** ✅ Completed
+
+## Day 7 – Research Insights
+
+### Learned
+- How to convert data patterns into insights
+- How to draw conclusions from research data
+- How to make simple recommendations
+
+### Practice
+Analyzed collected IT job data and converted patterns into research insights.
+
+### Key Takeaway
+A good research analyst does not just collect data; they use data to generate meaningful insights.
+
+**Status:** ✅ Completed
+## Day 8 – Research Questions
+
+### Learned
+- How to create research questions
+- How to make questions measurable
+- Importance of clear research objectives
+
+### Practice
+Created research questions for the IT job market comparison between Bengaluru and Mysuru.
+
+### Key Takeaway
+A good research question helps define what data needs to be collected and analyzed.
+
+**Status:** ✅ Completed
+## Day 9 – Research Objectives
+
+### Learned
+- How to define research objectives
+- Difference between research questions and objectives
+
+### Practice
+Created research objectives for comparing the IT job market in Bengaluru and Mysuru.
+
+### Key Takeaway
+Clear objectives help define what the research needs to achieve.
+
+**Status:** ✅ Completed
+## Day 10 – Research Scope
+
+### Learned
+- Meaning of research scope
+- What to include and exclude from research
+
+### Practice
+Defined the scope for the IT job market comparison between Bengaluru and Mysuru.
+
+### Key Takeaway
+A clear research scope keeps the research focused and manageable.
+
+**Status:** ✅ Completed
