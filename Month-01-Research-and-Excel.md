@@ -174,3 +174,49 @@ Researched an IT company and collected information about its industry, location,
 Company research requires collecting and verifying information from reliable sources.
 
 **Status:** ✅ Completed
+## Day 13 – Competitor Research
+
+### Learned
+- Meaning of competitor research
+- How to compare similar companies
+- How to identify differences between competitors
+
+### Practice
+Compared two IT companies based on services, locations, hiring and required skills.
+
+### Key Takeaway
+Competitor research helps identify differences, strengths and opportunities between companies.
+
+**Status:** ✅ Completed
+## Day 14 – Basic Research Report
+
+### Learned
+- Structure of a research report
+- How to present research findings
+- How to write conclusions based on data
+
+### Practice
+Created a basic research report using collected IT job-market data.
+
+### Key Takeaway
+A research report should clearly connect the research question, data, findings and conclusion.
+
+**Status:** ✅ Completed
+## Day 15 – Mini Research Project
+
+### Project
+IT Job Market – Bengaluru vs Mysuru
+
+### Learned
+- Complete research workflow
+- Data collection and comparison
+- Finding insights from data
+- Writing a conclusion
+
+### Practice
+Analyzed fresher IT job openings and compared Bengaluru and Mysuru.
+
+### Key Takeaway
+Research involves collecting reliable data, analyzing it and converting it into useful insights.
+
+**Status:** ✅ Completed
