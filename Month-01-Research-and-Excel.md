@@ -139,11 +139,38 @@ Clear objectives help define what the research needs to achieve.
 ### Learned
 - Meaning of research scope
 - What to include and exclude from research
+## Day 11 – Primary vs Secondary Research
+
+### Learned
+- Primary research
+- Secondary research
+- Difference between primary and secondary data
 
 ### Practice
+Classified different research activities as primary or secondary research.
+
+### Key Takeaway
+Primary research collects new information, while secondary research uses existing information.
+
+**Status:** ✅ Completed
+
 Defined the scope for the IT job market comparison between Bengaluru and Mysuru.
 
 ### Key Takeaway
 A clear research scope keeps the research focused and manageable.
+
+**Status:** ✅ Completed
+## Day 12 – Company Research
+
+### Learned
+- How to research a company
+- How to collect company information
+- Importance of reliable sources
+
+### Practice
+Researched an IT company and collected information about its industry, location, employees and hiring.
+
+### Key Takeaway
+Company research requires collecting and verifying information from reliable sources.
 
 **Status:** ✅ Completed
